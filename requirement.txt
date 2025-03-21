@@ -1,0 +1,11 @@
+python=3.12.3
+pytorch=2.3.0
+torchvision-0.18.0
+torchaudio-2.3.0
+pandas
+numpy
+scikit-learn
+tqdm
+tensorboardX
+cvxpy
+netcal
