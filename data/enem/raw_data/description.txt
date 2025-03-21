@@ -1,0 +1,5 @@
+ENEM
+
+- Download from https://download.inep.gov.br/microdados/microdados_enem_2020.zip
+  
+- unzip microdados_enem_2020.zip, place it in this folder

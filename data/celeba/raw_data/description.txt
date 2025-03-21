@@ -1,0 +1,11 @@
+CelebA
+
+- Download files from https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+  
+  - img_align_celeba.7z
+    
+  - identity_CelebA.txt
+    
+  - list_attr_celeba.txt
+    
+- unzip img_align_celeba.7z, place them in this folder

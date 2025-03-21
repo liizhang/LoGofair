@@ -1,5 +1,3 @@
-
-
 # LoGoFair
 
 This repository is built based on PyTorch, containing the code for the paper: '[AAAI 2025] LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning'.

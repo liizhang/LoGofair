@@ -1,0 +1,11 @@
+Adult
+
+- Download the following files:
+  
+- https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+  
+  https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.test
+  
+  https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names
+  
+- Place them in this folder
